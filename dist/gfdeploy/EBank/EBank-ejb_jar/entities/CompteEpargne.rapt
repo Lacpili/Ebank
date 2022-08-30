@@ -1,0 +1,5 @@
+entities/Transaction_.java
+entities/Agence_.java
+entities/CompteCourant_.java
+entities/CompteEpargne_.java
+entities/Client_.java

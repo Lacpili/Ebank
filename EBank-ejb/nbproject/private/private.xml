@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/services/local/CompteServiceBeanLocal.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/dao/local/GenericDaoBeanLocal.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/dao/AgenceDaoBean.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/services/GenericServiceBeanLocal.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/services/local/ClientServiceBeanLocal.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/dao/GenericDaoBean.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/entities/Transaction.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/entities/CompteEpargne.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/conf/META-INF/glassfish-resources.xml</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/dao/local/CompteDaoBeanLocal.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/services/TransactionServiceBean.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/services/local/AgenceServiceBeanLocal.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/dao/local/AgenceDaoBeanLocal.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/services/GenericServiceBean.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/services/AgenceServiceBean.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/entities/Compte.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/dao/local/ClientDaoBeanLocal.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/services/local/TransactionServiceBeanLocal.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/services/CompteServiceBean.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/dao/ClientDaoBean.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/entities/Client.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/dao/local/TransactionDaoBeanLocal.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/entities/Agence.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/entities/CompteCourant.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjectsold/EBank/EBank-ejb/src/java/services/ClientServiceBean.java</file>
+        </group>
+    </open-files>
+</project-private>
